@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages:** Python, JavaScript, SQL, HTML5, CSS3  
+**Languages:** Python, Sql
 **Libraries & Frameworks:**  
 LLMs → LangChain, Transformers (HuggingFace), OpenAI, Cohere  
 ML/DL → Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, AutoML 
