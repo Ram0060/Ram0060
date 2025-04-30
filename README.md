@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Raghu Ammula
 
-🎓 Graduate student in Business Analytics at **Drexel University**  
+🎓 Graduate student in **Drexel University**  
 🧠 Data Analyst turned AI enthusiast — passionate about **LLMs, Generative AI, Agentic AI**, and building intelligent systems that bridge business with deep tech  
 💼 2+ years of industry experience in real estate analytics & predictive modeling  
 📍 Based in Philadelphia | Open to AI research, applied ML roles, and internships
