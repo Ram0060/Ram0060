@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Raghu Ammula
 
 🎓 Graduate student in **Drexel University**  
-🧠 Data Analyst turned AI enthusiast — passionate about **LLMs, Generative AI, Agentic AI**, and building intelligent systems that bridge business with deep tech  
+🧠  AI enthusiast — passionate about **LLMs, Generative AI, Agentic AI**, and building intelligent systems that bridge business with deep tech  
 💼 3+ years of industry experience in **Data science, Machine learning engineering and predictive modeling**
 📍 Based in Philadelphia | Open to AI Engineer, applied ML , and Data Science Roles 
 
