@@ -2,8 +2,8 @@
 
 🎓 Graduate student in **Drexel University**  
 🧠  AI enthusiast — passionate about **LLMs, Generative AI, Agentic AI**, and building intelligent systems that bridge business with deep tech  
-💼 3+ years of industry experience in **Data science, Machine learning engineering and predictive modeling**
-📍 Based in Philadelphia | Open to AI Engineer, applied ML , and SDE Roles 
+💼 3+ years of industry experience in ** Software development , Machine learning engineering and predictive modeling**
+📍 Based in Philadelphia 
 
 ---
 
@@ -18,14 +18,39 @@
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages:** Python, Sql
+**Languages:** Python, Java , Sql, 
 **Libraries & Frameworks:**  
-LLMs → LangChain, Transformers (HuggingFace), OpenAI, Cohere  
 ML/DL → Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, AutoML 
-Cloud Platforms & Infrastructure - AWS SageMaker,Azure ML Studio, Docker, Kubernetes
+Devops,Cloud Platforms & Infrastructure - GCP, AWS SageMaker,Azure ML Studio, Docker, Kubernetes,
 Pipeline Automation & Orchestration - Apache Airflow, Dagster
 Monitoring & Experiment Tracking - MLflow
 Version Control - DVC (Data Version Control), GitHub Actions, Git
+Tech Stack (Interview Bullet Points)
+Languages & APIs
+Python (primary), SQL
+FastAPI (microservices), REST APIs
+ML / Modeling
+Walmart connect
+Scikit-learn, XGBoost ,CatBoost and LightGBM & NN
+PyTorch / TensorFlow (two-tower models)
+Matrix Factorization (candidate generation)
+Search & Retrieval
+Milvus (vector similarity search)
+Hybrid retrieval (collaborative + content-based) thorough Neural Nets.
+Data Processing
+Apache Spark (batch processing)
+Apache Flink
+Apache Airflow (pipeline orchestration)
+Serving & Deployment
+FastAPI microservices
+Docker, Kubernetes (containerization & orchestration)
+Triton Inference Server (for optimized model serving)
+Monitoring & MLOps
+MLflow (experiment tracking & model versioning) Via connect , DVC, 
+Prometheus + Grafana (monitoring & dashboards)
+Logging + alerting (latency, errors, drift)
+
+
 
 
 **Tools & Platforms:** GitHub, Docker, Tableau, Excel, SQL Server, Netlify, Google Analytics, Git, GitHub Actions, Model versioning, REST APIs.
@@ -45,15 +70,6 @@ Version Control - DVC (Data Version Control), GitHub Actions, Git
 
 ### 📡 [Broadband Recommendation ML Model](#)
 > Built a clustering and prediction model to recommend optimal broadband plans based on customer behavior.
-
----
-
-## 💼 Experience
-
-**Data Analyst – VAZHRAA NIRMANN PVT. LTD**  
-*March 2021 – May 2023*  
-- Created predictive models, dashboards, and cost estimations for construction projects  
-- Led financial and customer analytics using Python, SQL, and visualization tools
 
 ---
 
